@@ -8,6 +8,24 @@ public class NameThatCelebrity {
 		
   System.out.println("\\");
  System.out.println("I \"love\"\n books");
+ 
+ 
+ 
+  String s1= "Allan Alda";
+  String s2= "John Wayne";
+  String s3="Gregory Peck";
+  
+  
+  String aa= s1.substring(2, s1.length()-3);
+  String bb= s2.substring(2, s2.length()-3);
+  String cc= s3.substring(2, s3.length());
+  
+  
+  
+  
+  
+  
+  
 		  
   
   
