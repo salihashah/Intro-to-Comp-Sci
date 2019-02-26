@@ -14,11 +14,23 @@ public class NameThatCelebrity {
   String s1= "Allan Alda";
   String s2= "John Wayne";
   String s3="Gregory Peck";
+    
+
+  String hm= ">>>";
   
   
-  String aa= s1.substring(2, s1.length()-3);
-  String bb= s2.substring(2, s2.length()-3);
-  String cc= s3.substring(2, s3.length());
+  System.out.println(s1 +hm+s1.substring(2,s1.length()-3));
+  System.out.println(s2+hm+s2.substring(2,s2.length()-3));
+  System.out.println(s3+hm+s3.substring(2,s3.length()-3));
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
