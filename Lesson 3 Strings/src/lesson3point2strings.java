@@ -21,8 +21,13 @@ public class lesson3point2strings {
 		System.out.println(word.substring(0,4)+" "+ word.substring(9,10)+" "+"\""+ word.substring(8,13).toUpperCase()+"\"");
 		
 		String word1="whose a whats it";
-		System.out.println(word1.substring(0,6).toUpperCase()+"/n""+"is"+word1.substring(8,12).toUpperCase());
+		System.out.println(word1.substring(0,6).toUpperCase()+"\n"+"is" +" "+ word1.substring(8,12).toUpperCase());
+		
+		String word2= "Every Way The Wind Blows";
+		System.out.println(word2.substring(0,6).toLowerCase()+ word2.substring(6,10).toUpperCase()+word2.substring(10,14).toLowerCase()+"\\"+word2.substring(14,18).toUpperCase()+"\\"+ word2.substring(18,24).toLowerCase()+" "+4);
 				
+		String word3= "Peter Piper Picked A Peck Of Pickled Peppers";
+		System.out.println();
 		
 		
 		
